@@ -2,13 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  * @author jatin Bhagat
- *bdfbbgnfgngf
+ *
  */
 package week1example01;
 
 /**
  *
  * @author jatin
+ *hii world
  */
 public class Week1Example01 {
 
